@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyProject1</string>
+    <string name="text1">User Name</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="new_user">New User?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
